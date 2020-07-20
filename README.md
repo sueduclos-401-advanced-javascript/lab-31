@@ -37,7 +37,7 @@ User sees a list of categories
 
 ### Links and Resources
 
-- [CodeSandox Link](https://codesandbox.io/s/lab-32-redux-asynchronuous-actions-93w94)
+- [CodeSandox Link](https://codesandbox.io/s/lab-31-virtualstore-phase-2-93w94)
 - [Netlify Deployment](www.abc.com)
 
 ### Setup
